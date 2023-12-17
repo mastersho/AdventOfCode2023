@@ -1,0 +1,15 @@
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\bin\Debug\net6.0\AdventOfCode_2023_01.exe
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\bin\Debug\net6.0\AdventOfCode_2023_01.deps.json
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\bin\Debug\net6.0\AdventOfCode_2023_01.runtimeconfig.json
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\bin\Debug\net6.0\AdventOfCode_2023_01.dll
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\bin\Debug\net6.0\AdventOfCode_2023_01.pdb
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\obj\Debug\net6.0\AdventOfCode_2023_01.csproj.AssemblyReference.cache
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\obj\Debug\net6.0\AdventOfCode_2023_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\obj\Debug\net6.0\AdventOfCode_2023_01.AssemblyInfoInputs.cache
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\obj\Debug\net6.0\AdventOfCode_2023_01.AssemblyInfo.cs
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\obj\Debug\net6.0\AdventOfCode_2023_01.csproj.CoreCompileInputs.cache
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\obj\Debug\net6.0\AdventOfCode_2023_01.dll
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\obj\Debug\net6.0\refint\AdventOfCode_2023_01.dll
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\obj\Debug\net6.0\AdventOfCode_2023_01.pdb
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\obj\Debug\net6.0\AdventOfCode_2023_01.genruntimeconfig.cache
+D:\IT Training\4Fun\AdventOfCode\AdventOfCode_2023_01\obj\Debug\net6.0\ref\AdventOfCode_2023_01.dll
